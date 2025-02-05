@@ -1,17 +1,6 @@
-#include stdio.h> 
-
- 
-
-int main(void 
-
+#include<stdio.h>
+int main(void)
 { 
-
-    printf("Hello World") 
-
- 
-
-    return 0; 
-
-} 
-
- 
+    printf(" Majed ");
+    return 0;
+}
