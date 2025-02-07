@@ -1,6 +1,17 @@
-#include<stdio.h>
-int main(void)
+#include stdio.h> 
+
+ 
+
+int main(void 
+
 { 
-    printf(" Majed ");
-    return 0;
-}
+
+    printf("Hello World") 
+
+ 
+
+    return 0; 
+
+} 
+
+ 
